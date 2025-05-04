@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791426591306",
+    "project_id": "myid-example",
+    "storage_bucket": "myid-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791426591306:android:6d0268113260d48bfdd4b3",
+        "android_client_info": {
+          "package_name": "uz.polat.myidexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKxCT2HfHsKKeLASFS0DbnGDat-Nyk0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
